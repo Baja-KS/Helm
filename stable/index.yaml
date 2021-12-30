@@ -3,7 +3,17 @@ entries:
   microservice:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-12-30T18:20:16.913855789+01:00"
+    created: "2021-12-30T18:42:33.048823148+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 37b6770ee5fa3060266fc7ba323367ce65afaae5fd36f94a963605142c46ca23
+    name: microservice
+    type: application
+    urls:
+    - https://baja-ks.github.io/Helm/stable/microservice-1.0.3.tgz
+    version: 1.0.3
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-12-30T18:42:33.045351055+01:00"
     description: A Helm chart for Kubernetes
     digest: 0487f2176fdab175c33d58276fd952cdd513c65e7cc7f1ee11f5f6bb96104629
     name: microservice
@@ -13,7 +23,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-12-30T18:20:16.912431589+01:00"
+    created: "2021-12-30T18:42:33.043297469+01:00"
     description: A Helm chart for Kubernetes
     digest: f96195fe223285abcfc28e81f64b911bb5229b6949d9a3bf7d1a9cca714a62f6
     name: microservice
@@ -23,7 +33,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-12-30T18:20:16.910943366+01:00"
+    created: "2021-12-30T18:42:33.041023193+01:00"
     description: A Helm chart for Kubernetes
     digest: c18bc033a4cb93a8c79dc3c6d4ff29a18ef66a537fd345f8d584e48626a868b5
     name: microservice
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://baja-ks.github.io/Helm/stable/microservice-1.0.0.tgz
     version: 1.0.0
-generated: "2021-12-30T18:20:16.910077637+01:00"
+generated: "2021-12-30T18:42:33.039750216+01:00"
