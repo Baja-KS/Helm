@@ -41,4 +41,15 @@ entries:
     urls:
     - https://baja-ks.github.io/Helm/stable/microservice-1.0.0.tgz
     version: 1.0.0
-generated: "2021-12-30T18:42:33.039750216+01:00"
+  postgres-db:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-31T14:51:58.261844642+01:00"
+    description: Quick config postgresql
+    digest: 8e15461689af211343ff1225fc3408fdab7585122eb59d520ee32ae6b83375cd
+    name: postgres-db
+    type: application
+    urls:
+    - https://baja-ks.github.io/Helm/stable/postgres-db-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-12-31T14:51:58.260363694+01:00"
